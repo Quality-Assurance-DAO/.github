@@ -1,4 +1,17 @@
-## Hi there 👋
+
+
+# Welcome
+
+Welcome to the original GitHub repository of QA-DAO (Quality Assurance DAO).
+
+
+# Open Source
+
+> Integrating existing best practice open-source community guidelines into all Catalyst Projects. https://opensource.guide/
+
+# Community
+
+## To participate :
 
 <!--
 
