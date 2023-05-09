@@ -1,4 +1,4 @@
-Welcome to the GitHub organisation of QA-DAO (Quality Assurance DAO).
+## Welcome to the GitHub organisation of QA-DAO (Quality Assurance DAO).
 
 Open Source
 
