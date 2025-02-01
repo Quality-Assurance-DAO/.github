@@ -2,14 +2,6 @@
 
 QA-DAO is an ongoing open-source project that provides support for SingularityNet and the Cardano Community. Quality Assurance DAO was founded by Stephen Whitenstall in April 2021 and grew out of a Project Catalyst Fund 5 Proposal.
 
-Open Source
-
-> Integrating existing best practice open-source community guidelines into all Catalyst Projects. https://opensource.guide/
-
-Community
-
-To participate :
-
 <!--
 
 **Here are some ideas to get you started:**
